@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Aswati!  
+### 🚀 About Me  
+- 🎯 Aspiring Data Analyst  
+- 📊 Skilled in,Excel ,SQL ,Python, Power BI, DAX, and Data Visualization  
+- 🎯 Goal: To become an expert in Data Analytics  
+- 📫 Reach me at:[a.swati.singh@outlook.com]  
 
-<!--
-**aswati-22/aswati-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔥 My Projects  
+1. *Sales Dashboard in Power BI* – Analyzed sales data using Power BI and DAX.  
+2. **Customer Analysis Report** - Create insights on customer behavior using Power BI.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with me  
+[LinkedIn](linkedin.com/in/aswati-singh) | [GitHub](https://github.com/aswati-22)
