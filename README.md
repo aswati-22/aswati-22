@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aswati!  
+# 👋 Hi, I'm Swati!  
 ### 🚀 About Me  
 - 🎯 Aspiring Data Analyst  
 - 📊 Skilled in,Excel ,SQL ,Python, Power BI, DAX, and Data Visualization  
