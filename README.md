@@ -11,7 +11,7 @@
 - [SQL Projects](./SQL)  
   *All my SQL projects are organized here. Click to explore.*
 
-- [Power BI Projects](./PowerBI)  
+- [Power BI Projects](https://github.com/aswati-22/power-bi)  
   *Interactive dashboards and reports created using Power BI.*
 
 - [Python Projects](./Python)  
