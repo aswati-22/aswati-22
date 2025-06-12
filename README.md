@@ -8,7 +8,7 @@
 
 ###  My Projects by Technology
 
-- [SQL Projects](./SQL)  
+- [SQL Projects](https://github.com/swati-singh-7/sql)  
   *All my SQL projects are organized here. Click to explore.*
 
 - [Power BI Projects](https://github.com/aswati-22/power-bi)  
